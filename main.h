@@ -1,5 +1,6 @@
 #ifndef MAIN_H
 #define MAIN_H
+// include some header files.
 #include <stdarg.h>
 #include <stdio.h>
 #include <unistd.h>
